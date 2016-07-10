@@ -1,0 +1,22 @@
+New log file opened at Sat Jul 09 16:37:55 PDT 2016 by 82447@icastem1
+Taking next connection to: 54026
+New client attempting to connect on port: 54027-54026
+  Address = /127.0.0.1:54026
+This client on port 54027 has uuid e4693727-f24c-4e46-ac7d-3fccce1f4c30 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-e4693727-f24c-4e46-ac7d-3fccce1f4c30
+Taking next connection to: 54026
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 54026
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 54026
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 54026
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 82447@icastem1 logs at Sat Jul 09 16:49:55 PDT 2016, goodbye.
